@@ -14959,8 +14959,8 @@
 		)
 	)
 	(gr_text "motor 1"
-		(at 120 123.05 90)
-		(layer "F.SilkS")
+		(at 120.15 123.975 90)
+		(layer "F.SilkS" knockout)
 		(uuid "4631d545-b0c8-4ef7-adba-87f84a983172")
 		(effects
 			(font
@@ -14983,8 +14983,8 @@
 		)
 	)
 	(gr_text "motor 3"
-		(at 141.5 122.85 90)
-		(layer "F.SilkS")
+		(at 141.95 123.925 90)
+		(layer "F.SilkS" knockout)
 		(uuid "7e83e41f-b236-4167-bd28-d4b6ad49c24d")
 		(effects
 			(font
@@ -14995,8 +14995,8 @@
 		)
 	)
 	(gr_text "POWER \nAU"
-		(at 179.325 112.875 0)
-		(layer "F.SilkS")
+		(at 180.3 112.75 0)
+		(layer "F.SilkS" knockout)
 		(uuid "950f6eeb-0f02-4739-9792-4fde23611bfb")
 		(effects
 			(font
@@ -15007,8 +15007,8 @@
 		)
 	)
 	(gr_text "motor 2"
-		(at 130.65 122.975 90)
-		(layer "F.SilkS")
+		(at 130.975 124.05 90)
+		(layer "F.SilkS" knockout)
 		(uuid "cee32aa7-7b79-4887-b76a-5e2115000dd3")
 		(effects
 			(font
@@ -15018,9 +15018,9 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "motor 3"
-		(at 152.625 122.9 90)
-		(layer "F.SilkS")
+	(gr_text "motor 4"
+		(at 152.875 123.8 90)
+		(layer "F.SilkS" knockout)
 		(uuid "d33becbc-940d-4eb0-82da-c997b2f115b3")
 		(effects
 			(font
